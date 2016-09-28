@@ -1,0 +1,114 @@
+Inlogscherm algemeen: https://wireframe.cc/TRQyyQ
+
+Inlogscherm gebruiker: https://wireframe.cc/RGsn6b
+Inlogscherm gebruiker niet herkend: https://wireframe.cc/vd16W1
+Inlogscherm gebruiker annuleren: https://wireframe.cc/V295By
+
+Inlogscherm beheerder: https://wireframe.cc/Vm60Dd
+Inlogscherm beheerder onjuist: https://wireframe.cc/uTKQz3
+Inlogscherm beheerder annuleren: https://wireframe.cc/A6y5zC
+
+-----------------------------------------------------------------------------
+
+Beheerscherm algemeen: https://wireframe.cc/kC9qOL
+
+Beheerscherm boeken: https://wireframe.cc/RUhvzG
+Beheerscherm boeken geselecteerd: https://wireframe.cc/qgxW0n
+
+Beheerscherm boeken boek info: https://wireframe.cc/3exxW0
+Beheerscherm boeken boek info aanpassen: https://wireframe.cc/Tupv18
+Beheerscherm boeken boek info verwijderen: https://wireframe.cc/kb0bmE
+
+Beheerscherm boeken boek toevoegen: https://wireframe.cc/GUoOIj
+Beheerscherm boeken boek toevoegen annuleren: https://wireframe.cc/X9V8su
+Beheerscherm boeken boek toevoegen niet herkend: https://wireframe.cc/BruJTP
+Beheerwcherm boeken boek toevoegen handmatig: https://wireframe.cc/hTbAXC
+
+Beheerscherm boeken boek aanpassen: https://wireframe.cc/UKEBun
+Beheerscherm boeken boek aanpassen annuleren: https://wireframe.cc/riMXfp
+
+Beheerscherm boeken boek verwijderen: https://wireframe.cc/vAS35q
+
+-----------------------------------------------------------------------------
+
+Beheerscherm leden: https://wireframe.cc/Mje3Ph
+Beheerscherm leden geselecteerd: https://wireframe.cc/5zGNl6
+
+Beheerscherm leden lid info: https://wireframe.cc/wqrwme
+Beheerscherm leden lid info aanpassen: https://wireframe.cc/gQWU8A
+Beheerscherm leden lid info verwijderen: https://wireframe.cc/79a7os
+
+Beheerscherm leden lid leningen: https://wireframe.cc/6nOjnf
+Beheerscherm leden lid leningen geselecteerd: https://wireframe.cc/TrMKdm
+
+Beheerscherm leden lid leningen uitlenen: https://wireframe.cc/hJMuIe
+Beheerscherm leden lid leningen uitlenen annuleren: https://wireframe.cc/6URgE5
+Beheerscherm lenen lid leningen uitlenen bevestigen: https://wireframe.cc/qU5CdK
+
+Beheerscherm leden lid leningen inleveren met barcode: https://wireframe.cc/UVHBvn
+Beheerscherm leden lid leningen inleveren met barcode bevestigen: https://wireframe.cc/VpHCgD
+
+Beheerscherm leden lid leningen inleveren zonder barcode: https://wireframe.cc/LKr8D5
+
+Beheerscherm leden lid reserveringen: https://wireframe.cc/iaSJti
+Beheerscherm leden lid reserveringen geselecteerd: https://wireframe.cc/nuXVe3
+
+Beheerscherm leden lid reserveringen reserveren: https://wireframe.cc/LuFSq1
+Beheerscherm leden lid reserveringen reserveren geselecteerd: https://wireframe.cc/uFsSbH
+Beheerscherm leden lid reserveringen reserveren bevestigen: https://wireframe.cc/UJooHN
+
+Beheerscherm leden lid reserveringen annuleren: https://wireframe.cc/JfRIzM
+
+Beheerscherm leden lid toevoegen: https://wireframe.cc/W6sFNG
+Beheerscherm leden lid toevoegen scannen: https://wireframe.cc/GpXP8u
+Beheerscherm leden lid aanpassen: https://wireframe.cc/zD2xpt
+Beheerscherm leden lid aanpassen scannen: https://wireframe.cc/Jq8UdT
+
+Beheerscherm leden lid verwijderen: https://wireframe.cc/PPm1Ub
+
+-----------------------------------------------------------------------------
+
+Beheerscherm te late boeken: https://wireframe.cc/OoqX0V
+Beheerscherm te late boeken geselecteerd: https://wireframe.cc/ijWcjs
+
+Beheerscherm te late boeken inleveren: https://wireframe.cc/XWNoec
+
+Beheerscherm te late boeken ga naar lid: https://wireframe.cc/eeDzEu
+Beheerscherm te late boeken lid aanpassen: https://wireframe.cc/3GlR6i
+Beheerscherm te late boeken lid verwijderen: https://wireframe.cc/Mggb2n
+
+Beheerscherm te late boeken ga naar boek: https://wireframe.cc/g0MUeu
+Beheerscherm te late boeken boek aanpassen: https://wireframe.cc/9k8XL3
+Beheerscherm te late boeken boek verwijderen: https://wireframe.cc/bFUrI6
+
+Beheerscherm uitloggen: https://wireframe.cc/jSzUnG
+
+-----------------------------------------------------------------------------
+
+Ledenscherm: https://wireframe.cc/jUdTdI
+
+Leningenscherm: https://wireframe.cc/TUtuWH
+Leningenscherm geselecteerd: https://wireframe.cc/ComANB
+
+Boek lenen: https://wireframe.cc/LlxAU0
+Boek lenen annuleren: https://wireframe.cc/HSlKK5
+Boek lenen bevestigen: https://wireframe.cc/vHDmpS
+
+Boek inleveren met barcode: https://wireframe.cc/i0lCs9
+Boek inleveren bevestigen met barcode: https://wireframe.cc/bgb5QC
+
+Boek inleveren zonder barcode: https://wireframe.cc/zsuqv9
+
+Reserveringenscherm: https://wireframe.cc/o50N6a
+Reserveringenscherm geselecteerd: https://wireframe.cc/Nxf3lS
+
+Boek reserveren: https://wireframe.cc/qsU49D
+Boek reserveren geselecteerd: https://wireframe.cc/jF33ko
+Boek reserveren annuleren: https://wireframe.cc/hXfgac
+Boek reserveren bevestigen: https://wireframe.cc/ulfNx8
+
+Reservering annuleren: https://wireframe.cc/uOqvPe
+
+Boekenlijst: https://wireframe.cc/ovx4a2
+
+Uitloggen: https://wireframe.cc/MmwdWv
